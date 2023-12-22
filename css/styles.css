@@ -136,7 +136,6 @@ ol {
 }
 
 
-
 .team {
     color: #2E2F42;
     text-align: center;
@@ -147,11 +146,11 @@ ol {
     text-transform: capitalize;
 }
 
-.team-list {
+.team-list {}
+
+.team-item {
     background-color: #FFFFFF;
 }
-
-.team-item {}
 
 .team-img {}
 
