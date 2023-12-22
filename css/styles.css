@@ -92,12 +92,13 @@ ol {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    cursor: pointer;
+
 }
 
-.hero-title:hover,
-.hero-title:focus {
+.hero-button:hover,
+.hero-button:focus {
     background-color: #404BBF;
+    cursor: pointer;
 }
 
 /* --------------------Hero------------------------- */
